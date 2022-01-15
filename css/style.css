@@ -1,0 +1,16 @@
+body {
+    background: #2c2141;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    background: #f8f8f8;
+    border-radius: 16px;
+    width: 624;
+    margin: 16px;
+    padding: 32px;
+}
